@@ -1,2 +1,2 @@
 # コミット除外するファイルとディレクトリ
-node_modules/
+/node_modules
